@@ -29,3 +29,8 @@ Then install all requirements
 ```bash
 pip install -r requirements.txt
 ```
+
+## Run
+```
+python output_displayer.py
+```
