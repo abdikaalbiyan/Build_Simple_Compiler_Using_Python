@@ -3,10 +3,9 @@
 This code is used for a college assignment Compilation Technique in Binus University.
 The question is:
 ```bash
-Buatlah compiler sederhana yang mana merupakan bagian dari \n
-front-end (tahap analisis) atau back-end (tahap sintesis) compiler. \n
-Misalnya Anda membuat program sederhana yang berperan sebagai Scanner, \n
-atau membuat parsing, dll. Anda bebas menggunakan Bahasa pemrograman apapun. 
+Buatlah compiler sederhana yang mana merupakan bagian dari front-end (tahap analisis) atau back-end (tahap sintesis) compiler.
+Misalnya Anda membuat program sederhana yang berperan sebagai Scanner, atau membuat parsing, dll.
+Anda bebas menggunakan Bahasa pemrograman apapun. 
 
 ```
 
