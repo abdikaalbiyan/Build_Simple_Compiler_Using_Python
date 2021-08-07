@@ -1,9 +1,11 @@
 # Build_Simple_Compiler_Using_Python
 
+
+
 This code is used for a college assignment Compilation Technique in Binus University.
 The question is:
 ```bash
-Buatlah compiler sederhana yang mana merupakan bagian dari front-end (tahap analisis) atau back-end (tahap sintesis) compiler.
+Buatlah compiler sederhana yang mana merupakan bagian dari front-end (tahap analisis) atau back-end (tahap sintesis).
 Misalnya Anda membuat program sederhana yang berperan sebagai Scanner, atau membuat parsing, dll.
 Anda bebas menggunakan Bahasa pemrograman apapun. 
 
