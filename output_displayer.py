@@ -7,7 +7,7 @@ from executor import BasicExecute
 if __name__ == '__main__':
 	scanner = BasicScanner()
 	parser  = BasicParser()
-	print('Compiler Kita')
+	print('Mari kita cobaaaaa')
 	env = {}
 	
 	while True:
